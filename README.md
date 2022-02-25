@@ -1,4 +1,4 @@
-# dataexercises
+# Data Science/ML Exercises
  practice data science concepts with online projects and tutorials
 
 # Detecting Parkinsons with XGBoost
