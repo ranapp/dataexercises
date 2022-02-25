@@ -2,7 +2,9 @@
  practice data science concepts with online projects and tutorials
 
 # Detecting Parkinsons with XGBoost
-Building a model that accurately detects the presence of Parkinson's Disease 
+Building a model that accurately detects the presence of Parkinson's Disease
+
+File Name: parkinsons_project
 
 link to resources for Parkinson's Project: 
 https://www.notion.so/Data-Science-Articles-c703cf38a4fc4a87930bb829f75b35e8
